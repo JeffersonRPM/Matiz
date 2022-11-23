@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "293591735999",
+    "project_id": "matiz-8b3a7",
+    "storage_bucket": "matiz-8b3a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293591735999:android:45e29e60145b0410b9f00a",
+        "android_client_info": {
+          "package_name": "com.example.matiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293591735999-9np0l07qr2m3jdm19p7dvobuobpbibcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9W3QFJ04B5tKqSmg_IbpgncweJas45_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293591735999-9np0l07qr2m3jdm19p7dvobuobpbibcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

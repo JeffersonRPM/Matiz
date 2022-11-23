@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Help_ex2">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/bt_entendi"
+        style="@style/Button2"
+        android:layout_marginBottom="20dp"
+        android:text="@string/entendi"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/texto1"
+        android:layout_width="0dp"
+        android:layout_height="90dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:text="@string/t4"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="19sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/exmp1"
+        android:layout_width="350dp"
+        android:layout_height="180dp"
+        android:src="@drawable/im3"
+        android:layout_marginTop="110dp"
+        app:layout_constraintEnd_toEndOf="@id/texto1"
+        app:layout_constraintStart_toStartOf="@id/texto1"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <TextView
+        android:id="@+id/texto2"
+        android:layout_width="0dp"
+        android:layout_height="120dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="200dp"
+        android:layout_marginEnd="20dp"
+        android:text="@string/t5"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="19sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/exmp1" />
+
+
+    <ImageView
+        android:id="@+id/exmp2"
+        android:layout_width="400dp"
+        android:layout_height="200dp"
+        android:src="@drawable/im4"
+        android:layout_marginTop="120dp"
+        app:layout_constraintEnd_toEndOf="@id/texto2"
+        app:layout_constraintStart_toStartOf="@id/texto2"
+        app:layout_constraintTop_toTopOf="@id/texto2"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

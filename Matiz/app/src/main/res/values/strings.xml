@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Matiz</string>
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastro">Crie uma conta clicando aqui</string>
+    <string name="title_cadastro">Cadastre-se</string>
+    <string name="deslogar">Deslogar</string>
+    <string name="selecione">Selecione o nível</string>
+    <string name="fracao">Frações</string>
+    <string name="entendi">Entendi</string>
+    <string name="em_breve">EM BREVE</string>
+    <string name="t1">Fração é a representação da divisão entre dois números, e relaciona uma parte com o todo.</string>
+    <string name="t2">O número localizado mais acima (numerador) determina a parte utilizada, e o número mais abaixo (denominador) determina o todo. Logo a fração relaciona a parte com o todo.</string>
+    <string name="exemplo">Exemplo</string>
+    <string name="t3">Imagine um bolo dividido em 6 partes iguais, e você deseja comer apenas um pedaço. Então você comerá 1/6 do bolo todo, pois o bolo todo possuí 6 pedaços e você consumiu apenas 1.</string>
+    <string name="finalizar">Finalizar</string>
+    <string name="a">a)ㅤ</string>
+    <string name="b">b)ㅤ</string>
+    <string name="c">c)ㅤ</string>
+    <string name="d">d)ㅤ</string>
+    <string name="e">e)ㅤ</string>
+    <string name="f">f)ㅤ</string>
+    <string name="g">g)ㅤ</string>
+    <string name="h">h)ㅤ</string>
+    <string name="i">i)ㅤ</string>
+    <string name="t4">Uma fração é considerada própria quando o numerador é menor que o denominador, ou seja, ela representa uma parte do todo.</string>
+    <string name="t5">Uma fração é considerada imprópria quando o numerador é maior que o denominador, ou seja, ela representa o todo e mais uma parte.</string>
+    <string name="t6">A fração 2/4 é própria ou imprópria:</string>
+    <string name="propria">Própria</string>
+    <string name="impropria">Impropria</string>
+    <string name="propimprop">Própria e imprópria</string>
+    <string name="nenhuma">Nenhuma das alternativas</string>
+
+
+
+</resources>
