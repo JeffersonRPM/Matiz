@@ -34,5 +34,8 @@ Project developed in Java in Android Studio, application with login screen, regi
 ## Firebase
 ![image](https://user-images.githubusercontent.com/48998618/213449993-0f205bc0-eebf-4e38-9e71-c5456c023252.png)
 
-
+## Responsive design
+![image](https://user-images.githubusercontent.com/48998618/215363321-5ae7d22e-0ccb-4239-834c-5e0d3831d501.png)
+<br>
+![image](https://user-images.githubusercontent.com/48998618/215363427-81861092-89e4-4ba8-92c8-6539e3bde863.png)
 
